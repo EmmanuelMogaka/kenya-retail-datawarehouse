@@ -1,0 +1,21 @@
+product_id,product_name,category,cost_price,unit_price
+1,Maize Flour 2kg,Staples,150,190
+2,Sugar 1kg,Staples,140,170
+3,Rice 2kg,Staples,300,380
+4,Cooking Oil 1L,Staples,260,330
+5,Wheat Flour 2kg,Staples,170,215
+6,Fresh Milk 500ml,Dairy & Bakery,55,70
+7,Bread 400g,Dairy & Bakery,50,65
+8,Eggs Tray of 30,Dairy & Bakery,400,480
+9,Yoghurt 500ml,Dairy & Bakery,85,110
+10,Tomatoes 1kg,Fresh Produce,60,90
+11,Onions 1kg,Fresh Produce,70,100
+12,Sukuma Wiki Bunch,Fresh Produce,10,20
+13,Bananas 1kg,Fresh Produce,70,100
+14,Bar Soap,Household,45,65
+15,Toothpaste 100ml,Household,120,160
+16,Toilet Paper 4 Pack,Household,150,200
+17,Laundry Detergent 1kg,Household,230,290
+18,Soda 500ml,Beverages,45,60
+19,Bottled Water 1L,Beverages,30,50
+20,Tea Leaves 250g,Beverages,110,140
