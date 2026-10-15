@@ -1,0 +1,301 @@
+receipt_id,line_no,sale_date,store_name,product_id,quantity,unit_price,discount,customer_id,payment_method
+R0000001,1,2025-01-01,Duka Fresh Westlands,3,1,380.0,0.0,,M-Pesa
+R0000002,1,2025-01-01,Duka Fresh Westlands,3,2,380.0,0.0,298,M-Pesa
+R0000003,1,2025-01-01,Duka Fresh Westlands,8,1,480.0,0.0,255,Cash
+R0000003,2,2025-01-01,Duka Fresh Westlands,14,2,65.0,0.0,255,Cash
+R0000004,1,2025-01-01,Duka Fresh Westlands,8,1,480.0,0.0,295,M-Pesa
+R0000004,2,2025-01-01,Duka Fresh Westlands,11,1,100.0,0.0,295,M-Pesa
+R0000004,3,2025-01-01,Duka Fresh Westlands,14,3,65.0,0.0,295,M-Pesa
+R0000005,1,2025-01-01,Duka Fresh Westlands,8,2,480.0,48.0,,M-Pesa
+R0000005,2,2025-01-01,Duka Fresh Westlands,12,3,20.0,0.0,,M-Pesa
+R0000005,3,2025-01-01,Duka Fresh Westlands,18,2,60.0,12.0,,M-Pesa
+R0000006,1,2025-01-01,Duka Fresh Westlands,1,1,190.0,0.0,229,M-Pesa
+R0000006,2,2025-01-01,Duka Fresh Westlands,15,1,160.0,16.0,229,M-Pesa
+R0000007,1,2025-01-01,Duka Fresh Westlands,3,1,380.0,0.0,127,M-Pesa
+R0000007,2,01/01/2025,Duka Fresh Westlands,4,2,330.0,0.0,127,M-Pesa
+R0000007,3,2025-01-01,Duka Fresh Westlands,6,2,70.0,0.0,127,M-Pesa
+R0000007,4,2025-01-01,Duka Fresh Westlands,10,1,90.0,4.5,127,M-Pesa
+R0000007,5,2025-01-01,DUKA FRESH WESTLANDS,12,1,20.0,0.0,127,M-Pesa
+R0000008,1,2025-01-01,Duka Fresh Westlands,10,1,90.0,0.0,94,MPESA
+R0000009,1,2025-01-01,Duka Fresh Westlands,2,3,170.0,0.0,,Cash
+R0000009,2,2025-01-01,Duka Fresh Westlands,14,3,65.0,0.0,,Cash
+R0000009,3,2025-01-01,Duka Fresh Westlands,16,1,200.0,0.0,,Cash
+R0000010,1,2025-01-01,Duka Fresh Westlands,5,1,215.0,0.0,206,M-Pesa
+R0000010,1,2025-01-01,Duka Fresh Westlands,5,1,215.0,0.0,206,M-Pesa
+R0000011,1,2025-01-01,Duka Fresh Westlands,2,1,170.0,0.0,1,M-Pesa
+R0000011,2,2025-01-01,Duka Fresh Westlands,14,2,65.0,0.0,1,M-Pesa
+R0000011,3,2025-01-01,Duka Fresh Westlands,20,2,140.0,0.0,1,M-Pesa
+R0000012,1,2025-01-01,Duka Fresh Westlands,3,1,380.0,0.0,250,Card
+R0000012,2,2025-01-01,Duka Fresh Westlands,8,1,480.0,48.0,250,Card
+R0000012,3,2025-01-01,Duka Fresh Westlands,12,1,20.0,0.0,250,Card
+R0000013,1,2025-01-01,Duka Fresh Westlands,3,3,380.0,0.0,271,M-Pesa
+R0000013,2,2025-01-01,Duka Fresh Westlands,13,1,100.0,0.0,271,M-Pesa
+R0000013,3,2025-01-01,Duka Fresh Westlands,18,1,60.0,0.0,271,M-Pesa
+R0000014,1,2025-01-01,Duka Fresh Westlands,5,1,215.0,21.5,100,Cash
+R0000014,2,2025-01-01,Duka Fresh Westlands,8,1,480.0,0.0,100,Cash
+R0000014,3,2025-01-01,Duka Fresh Westlands,13,2,100.0,0.0,100,Cash
+R0000014,4,2025-01-01,Duka Fresh Westlands,17,2,290.0,0.0,100,Cash
+R0000015,1,2025-01-01,Duka Fresh Westlands,11,1,100.0,0.0,187,M-Pesa
+R0000016,1,2025-01-01,Duka Fresh Westlands,19,1,50.0,0.0,,Cash
+R0000017,1,2025-01-01,Duka Fresh Westlands,5,3,215.0,0.0,,M-Pesa
+R0000017,2,2025-01-01,Duka Fresh Westlands,17,2,290.0,58.0,,M-Pesa
+R0000018,1,2025-01-01,Duka Fresh Westlands,3,1,380.0,0.0,44,Cash
+R0000019,1,2025-01-01,Duka Fresh Westlands,8,1,480.0,24.0,,M-Pesa
+R0000019,2,2025-01-01,Duka Fresh Westlnds,13,1,100.0,0.0,,M-Pesa
+R0000019,3,2025-01-01,Duka Fresh Westlands,15,1,160.0,0.0,,M-Pesa
+R0000019,4,2025-01-01,Duka Fresh Westlands,20,2,140.0,0.0,,M-Pesa
+R0000020,1,2025-01-01,Duka Fresh Westlands,2,2,170.0,0.0,150,M-Pesa
+R0000020,2,2025-01-01,Duka Fresh Westlands,8,2,480.0,0.0,150,M-Pesa
+R0000020,3,2025-01-01,Duka Fresh Westlands,13,1,100.0,0.0,150,M-Pesa
+R0000020,4,2025-01-01,Duka Fresh Westlands,18,3,60.0,0.0,150,M-Pesa
+R0000021,1,2025-01-01,Duka Fresh Westlands,1,2,190.0,0.0,262,M-Pesa
+R0000021,2,2025-01-01,Duka Fresh Westlands,5,1,215.0,0.0,262,M-Pesa
+R0000022,1,2025-01-01,Duka Fresh Westlands,12,1,20.0,0.0,167,Cash
+R0000022,2,2025-01-01,Duka Fresh Westlands,17,1,290.0,29.0,167,Cash
+R0000022,3,2025-01-01,Duka Fresh Westlands,19,1,50.0,0.0,167,Cash
+R0000023,1,2025-01-01,Duka Fresh Westlands,11,1,100.0,0.0,,M-Pesa
+R0000023,2,2025-01-01,Duka Fresh Westlands,13,3,100.0,0.0,,M-Pesa
+R0000023,3,2025-01-01,Duka Fresh Westlands,16,3,200.0,0.0,,M-Pesa
+R0000024,1,2025-01-01,DUKA FRESH WESTLANDS,9,1,110.0,0.0,287,Card
+R0000024,2,2025-01-01,Duka Fresh Westlands,10,1,90.0,0.0,287,Card
+R0000025,1,2025-01-01,Duka Fresh Westlands,17,2,290.0,0.0,63,Card
+R0000026,1,2025-01-01,Duka Fresh Westlands,10,1,90.0,0.0,,Card
+R0000026,2,2025-01-01,Duka Fresh Westlands,20,2,140.0,0.0,,Card
+R0000027,1,2025-01-01,Duka Fresh Westlands,3,1,380.0,0.0,264,M-Pesa
+R0000027,2,2025-01-01,Duka Fresh Westlands,8,1,480.0,0.0,264,M-Pesa
+R0000028,1,2025-01-01,Duka Fresh Westlands,2,4,170.0,0.0,265,Cash
+R0000028,2,2025-01-01,Duka Fresh Westlands,18,1,60.0,3.0,265,Cash
+R0000028,3,2025-01-01,Duka Fresh Westlands,20,1,140.0,0.0,265,Cash
+R0000029,1,2025-01-01,Duka Fresh Westlands,8,1,480.0,0.0,133,M-Pesa
+R0000029,2,2025-01-01,Duka Fresh Westlands,12,1,20.0,0.0,133,M-Pesa
+R0000029,3,2025-01-01,Duka Fresh Westlands,13,1,100.0,5.0,133,M-Pesa
+R0000030,1,2025-01-01,Duka Fresh Westlands,2,3,170.0,0.0,,M-Pesa
+R0000030,2,2025-01-01,Duka Fresh Westlands,8,1,480.0,0.0,,M-Pesa
+R0000030,3,2025-01-01,Duka Fresh Westlands,11,1,100.0,0.0,,M-Pesa
+R0000030,4,01/01/2025,Duka Fresh Westlands,14,1,65.0,3.25,,M-Pesa
+R0000030,5,2025-01-01,Duka Fresh Westlands,18,3,60.0,0.0,,M-Pesa
+R0000031,1,2025-01-01,Duka Fresh Westlands,1,1,190.0,9.5,106,M-Pesa
+R0000031,2,2025-01-01,Duka Fresh Westlands,5,1,215.0,0.0,106,M-Pesa
+R0000031,3,2025-01-01,Duka Fresh Westlands,8,1,480.0,0.0,106,M-Pesa
+R0000032,1,2025-01-01,Duka Fresh Westlands,7,1,65.0,0.0,,Cash
+R0000032,2,2025-01-01,Duka Fresh Westlands,19,1,50.0,0.0,,Cash
+R0000032,3,2025-01-01,Duka Fresh Westlands,20,2,140.0,0.0,,Cash
+R0000033,1,2025-01-01,Duka Fresh Westlands,1,1,190.0,0.0,,Card
+R0000033,2,2025-01-01,Duka Fresh Westlands,10,1,90.0,0.0,,Card
+R0000033,3,2025-01-01,Duka Fresh Westlands,14,4,65.0,0.0,,Card
+R0000033,4,2025-01-01,Duka Fresh Westlands,18,2,60.0,6.0,,Card
+R0000034,1,2025-01-01,Duka Fresh Kilimani,8,1,,48.0,229,M-Pesa
+R0000034,2,2025-01-01,Duka Fresh Kilimani,20,1,140.0,0.0,229,mpesa
+R0000035,1,2025-01-01,Duka Fresh Kilimani,1,1,190.0,19.0,43,M-Pesa
+R0000035,2,2025-01-01,Duka Fresh Kilimani,5,1,215.0,0.0,43,M-Pesa
+R0000035,3,2025-01-01,Duka Fresh Kilimani,13,1,100.0,0.0,43,M-Pesa
+R0000036,1,2025-01-01,Duka Fresh Kilimani,19,2,50.0,0.0,271,Cash
+R0000037,1,2025-01-01,Duka Fresh Kilimani,3,2,380.0,0.0,,Cash
+R0000037,2,2025-01-01,Duka Fresh Kilimani,6,1,70.0,0.0,,CASH
+R0000037,3,2025-01-01,Duka Fresh Kilimani,14,2,65.0,0.0,,Cash
+R0000038,1,2025-01-01,Duka Fresh Kilimani,1,2,190.0,0.0,,Cash
+R0000038,2,2025-01-01,Duka Fresh Kilimani,16,4,200.0,0.0,,Cash
+R0000038,3,2025-01-01,Duka Fresh Kilimani,18,1,60.0,6.0,,Cash
+R0000039,1,2025-01-01,Duka Fresh Kilimani,1,1,190.0,0.0,,M-Pesa
+R0000039,2,2025-01-01,Duka Fresh Kilimani,2,1,170.0,8.5,,M-Pesa
+R0000039,3,2025-01-01,Duka Fresh Kilimani,13,2,100.0,20.0,,M-Pesa
+R0000040,1,01/01/2025,Duka Fresh Kilimani,5,2,215.0,0.0,39,Cash
+R0000040,2,2025-01-01,Duka Fresh Kilimani,17,2,290.0,58.0,39,Cash
+R0000041,1,2025-01-01,Duka Fresh Kilimani,3,-1,380.0,0.0,,Cash
+R0000041,2,2025-01-01,Duka Fresh Kilimani,6,1,,7.0,,Cash
+R0000041,3,2025-01-01,Duka Fresh Kilimani,17,4,290.0,58.0,,Cash
+R0000042,1,2025-01-01,Duka Fresh Kilimani,3,1,380.0,0.0,,M-Pesa
+R0000042,2,2025-01-01,Duka Fresh Kilimani,11,3,100.0,30.0,,M-Pesa
+R0000042,3,2025-01-01,Duka Fresh Kilimani,19,1,50.0,0.0,,M-Pesa
+R0000043,1,2025-01-01,Duka Fresh Kilimani,2,1,170.0,0.0,,Card
+R0000043,2,2025-01-01,Duka Fresh Kilimani,19,1,50.0,0.0,,Card
+R0000044,1,2025-01-01,Duka Fresh Kilimani,8,1,480.0,0.0,261,M-Pesa
+R0000045,1,2025-01-01,Duka Fresh Kilimani,3,1,380.0,0.0,82,M-Pesa
+R0000045,2,2025-01-01,Duka Fresh Kilimani,7,2,65.0,13.0,82,M-Pesa
+R0000045,3,2025-01-01,Duka Fresh Kilimani,11,2,100.0,0.0,82,MPESA
+R0000046,1,2025-01-01,Duka Fresh Kilimani,7,1,65.0,0.0,,Cash
+R0000046,2,2025-01-01,Duka Fresh Kilimani,8,1,480.0,24.0,,Cash
+R0000046,3,2025-01-01,Duka Fresh Kilimani,9,1,110.0,0.0,,Cash
+R0000046,4,2025-01-01,Duka Fresh Kilimani,14,2,65.0,0.0,,Cash
+R0000046,5,2025-01-01,Duka Fresh Kilimani,20,4,140.0,0.0,,Cash
+R0000047,1,2025-01-01,Duka Fresh Kilimani,1,1,190.0,0.0,192,Cash
+R0000047,2,2025-01-01,Duka Fresh Kilimani,17,1,290.0,0.0,192,Cash
+R0000048,1,2025-01-01,Duka Fresh Kilimani,2,1,170.0,0.0,211,M-Pesa
+R0000048,2,2025-01-01,Duka Fresh Kilimani,6,1,70.0,0.0,211,M-Pesa
+R0000048,3,2025-01-01,Duka Fresh Kilimani,15,2,160.0,0.0,211,M-Pesa
+R0000048,4,2025-01-01,Duka Fresh Kilimani,19,1,50.0,0.0,211,M-Pesa
+R0000049,1,2025-01-01,Duka Fresh Kilimani,15,1,160.0,0.0,286,Cash
+R0000050,1,2025-01-01,Duka Fresh Kilimani,8,1,480.0,0.0,,M-Pesa
+R0000050,2,2025-01-01,Duka Fresh Kilimani,10,1,90.0,0.0,,M-Pesa
+R0000050,3,2025-01-01,Duka Fresh Kilimani,17,1,290.0,0.0,,M-Pesa
+R0000051,1,2025-01-01,Duka Fresh Kilimani,18,1,60.0,0.0,,M-Pesa
+R0000052,1,2025-01-01,Duka Fresh Kilimani,6,4,70.0,0.0,139,M-Pesa
+R0000053,1,2025-01-01,Duka Fresh Kilimani,8,4,480.0,0.0,111,M-Pesa
+R0000053,2,2025-01-01,Duka Fresh Kilimani,9,1,110.0,0.0,111,M-Pesa
+R0000053,3,2025-01-01,Duka Fresh Kilimani,10,2,90.0,0.0,111,M-Pesa
+R0000053,4,2025-01-01,Duka Fresh Kilimani,15,1,160.0,16.0,111,M-Pesa
+R0000053,5,2025-01-01,Duka Fresh Kilimani,18,4,60.0,0.0,111,M-Pesa
+R0000054,1,2025-01-01,Duka Fresh Kilimani,1,1,190.0,0.0,80,M-Pesa
+R0000054,2,2025-01-01,Duka Fresh Kilimani,3,1,380.0,0.0,80,M-Pesa
+R0000054,3,01/01/2025,Duka Fresh Kilimani,16,4,200.0,0.0,80,MPESA
+R0000054,4,2025-01-01,Duka Fresh Kilimani,17,1,290.0,0.0,80,M-Pesa
+R0000054,5,2025-01-01,Duka Fresh Kilimani,18,2,60.0,12.0,80,M-Pesa
+R0000054,6,2025-01-01,Duka Fresh Kilimani,19,1,50.0,0.0,80,M-Pesa
+R0000055,1,2025-01-01,Duka Fresh Kilimani,13,4,100.0,0.0,115,Cash
+R0000056,1,2025-01-01,Duka Fresh Kilimani,6,2,70.0,0.0,125,M-Pesa
+R0000056,2,2025-01-01,Duka Fresh Kilimani,20,1,140.0,0.0,125,M-Pesa
+R0000057,1,2025-01-01,duka fresh kilimani,15,1,160.0,16.0,,M-Pesa
+R0000057,2,2025-01-01,Duka Fresh Kilimani,19,2,50.0,0.0,,M-Pesa
+R0000058,1,2025-01-01,Duka Fresh Kilimani,5,2,215.0,0.0,4,Cash
+R0000058,2,2025-01-01,Duka Fresh Kilimani,8,1,480.0,0.0,4,Cash
+R0000058,3,2025-01-01,Duka Fresh Kilimani,13,1,100.0,0.0,4,Cash
+R0000058,4,2025-01-01,Duka Fresh Kilimani,20,1,140.0,0.0,4,Cash
+R0000058,4,2025-01-01,Duka Fresh Kilimani,20,1,140.0,0.0,4,Cash
+R0000059,1,2025-01-01,Duka Fresh Kilimani,14,3,65.0,9.75,214,Card
+R0000060,1,2025-01-01,Duka Fresh Kilimani,2,1,170.0,0.0,,M-Pesa
+R0000061,1,2025-01-01,Duka Fresh Nyali,5,2,215.0,43.0,,Card
+R0000061,2,2025-01-01,Duka Fresh Nyali,19,2,50.0,0.0,,Card
+R0000062,1,2025-01-01,Duka Fresh Nyali,8,1,480.0,0.0,56,M-Pesa
+R0000062,2,2025-01-01,Duka Fresh Nyali,20,1,140.0,0.0,56,M-Pesa
+R0000063,1,2025-01-01,Duka Fresh Nyali,2,1,170.0,0.0,,Cash
+R0000063,2,2025-01-01,Duka Fresh Nyali,12,1,20.0,0.0,,Cash
+R0000064,1,2025-01-01,Duka Fresh Nyali,17,1,290.0,14.5,,M-Pesa
+R0000064,2,2025-01-01,Duka Fresh Nyali,18,2,60.0,6.0,,M-Pesa
+R0000065,1,2025-01-01,Duka Fresh Nyali,6,2,70.0,0.0,,Card
+R0000065,2,2025-01-01,Duka Fresh Nyali,20,2,140.0,0.0,,Card
+R0000066,1,2025-01-01,Duka Fresh Nyali,2,2,170.0,0.0,2,Cash
+R0000066,2,2025-01-01,Duka Fresh Nyali,18,2,60.0,0.0,2,Cash
+R0000066,3,2025-01-01,Duka Fresh Nyali,19,2,50.0,0.0,2,Cash
+R0000067,1,2025-01-01,Duka Fresh Nyali,12,1,20.0,0.0,,Cash
+R0000068,1,2025-01-01,Duka Fresh Nyali,8,1,480.0,0.0,78,Cash
+R0000068,2,2025-01-01,DUKA FRESH NYALI,18,2,60.0,0.0,78,Cash
+R0000069,1,2025-01-01,Duka Fresh Nyali,3,1,380.0,0.0,18,M-Pesa
+R0000069,2,2025-01-01,Duka Fresh Nyali,4,1,330.0,0.0,18,M-Pesa
+R0000069,3,2025-01-01,Duka Fresh Nyali,10,4,90.0,0.0,18,M-Pesa
+R0000070,1,2025-01-01,Duka Fresh Nyali,16,2,200.0,0.0,69,M-Pesa
+R0000070,2,2025-01-01,Duka Fresh Nyali,17,2,290.0,0.0,69,M-Pesa
+R0000070,3,2025-01-01,Duka Fresh Nyali,18,1,60.0,0.0,69,M-Pesa
+R0000071,1,2025-01-01,Duka Fresh Nyali,4,3,330.0,0.0,,M-Pesa
+R0000071,2,2025-01-01,Duka Fresh Nyali,6,1,70.0,0.0,,M-Pesa
+R0000072,1,2025-01-01,Duka Fresh Nyali,15,4,160.0,0.0,,M-Pesa
+R0000072,2,2025-01-01,Duka Fresh Nyali,18,1,60.0,0.0,,M-Pesa
+R0000073,1,2025-01-01,Duka Fresh Nyali,7,1,65.0,0.0,,Card
+R0000074,1,2025-01-01,Duka Fresh Nyali,6,3,70.0,0.0,,M-Pesa
+R0000074,2,2025-01-01,Duka Fresh Nyali,8,1,480.0,0.0,,M-Pesa
+R0000074,3,2025-01-01,Duka Fresh Nyalli,11,1,,0.0,,M-Pesa
+R0000074,4,2025-01-01,Duka Fresh Nyali,17,1,290.0,0.0,,M-Pesa
+R0000074,5,2025-01-01,Duka Fresh Nyali,18,1,60.0,0.0,,M-Pesa
+R0000075,1,2025-01-01,Duka Fresh Nyali,8,2,480.0,0.0,,mpesa
+R0000076,1,2025-01-01,Duka Fresh Nyali,10,2,90.0,0.0,105,M-Pesa
+R0000076,2,2025-01-01,Duka Fresh Nyali,12,1,20.0,0.0,105,M-Pesa
+R0000076,3,2025-01-01,Duka Fresh Nyali,18,1,60.0,0.0,105,M-Pesa
+R0000077,1,2025-01-01,Duka Fresh Nyali,2,3,170.0,0.0,,Cash
+R0000077,1,2025-01-01,Duka Fresh Nyali,2,3,170.0,0.0,,Cash
+R0000077,2,2025-01-01,Duka Fresh Nyali,17,1,,0.0,,Cash
+R0000078,1,2025-01-01,Duka Fresh Nyali,10,1,90.0,0.0,,Cash
+R0000078,2,2025-01-01,Duka Fresh Nyali,19,1,50.0,5.0,,Cash
+R0000079,1,2025-01-01,Duka Fresh Nyali,3,2,380.0,0.0,84,M-Pesa
+R0000080,1,2025-01-01,Duka Fresh Nyali,8,1,480.0,0.0,190,Cash
+R0000081,1,2025-01-01,Duka Fresh Nyali,3,4,380.0,0.0,197,M-Pesa
+R0000081,2,2025-01-01,Duka Fresh Nyali,5,1,215.0,0.0,197,M-Pesa
+R0000081,3,2025-01-01,Duka Fresh Nyali,19,1,50.0,0.0,197,M-Pesa
+R0000081,4,2025-01-01,Duka Fresh Nyali,20,2,140.0,0.0,197,M-Pesa
+R0000082,1,2025-01-01,Duka Fresh Nyali,5,1,215.0,0.0,114,Cash
+R0000082,2,2025-01-01,Duka Fresh Nyali,12,1,20.0,0.0,114,Cash
+R0000082,3,2025-01-01,Duka Fresh Nyali,14,1,,0.0,114,Cash
+R0000083,1,2025-01-01,Duka Fresh Nyali,8,1,480.0,0.0,,M-Pesa
+R0000083,2,2025-01-01,Duka Fresh Nyali,9,2,110.0,0.0,,M-Pesa
+R0000083,3,2025-01-01,Duka Fresh Nyali,15,1,160.0,0.0,,M-Pesa
+R0000083,4,2025-01-01,Duka Fresh Nyali,16,1,200.0,0.0,,M-Pesa
+R0000083,5,01/01/2025,Duka Fresh Nyali,18,1,60.0,0.0,,M-Pesa
+R0000084,1,2025-01-01,Duka Fresh Nyali,14,2,65.0,0.0,251,M-Pesa
+R0000084,2,2025-01-01,Duka Fresh Nyali,18,1,60.0,6.0,251,M-pesa
+R0000085,1,2025-01-01,Duka Fresh Nyali,1,3,190.0,0.0,47,Cash
+R0000085,2,2025-01-01,Duka Fresh Nyali,3,2,380.0,76.0,47,Cash
+R0000085,3,2025-01-01,Duka Fresh Nyali,15,2,160.0,0.0,47,Cash
+R0000086,1,2025-01-01,Duka Fresh Nyali,5,4,215.0,0.0,34,Card
+R0000086,2,2025-01-01,Duka Fresh Nyali,12,1,20.0,0.0,34,Card
+R0000086,3,2025-01-01,Duka Fresh Nyali,18,3,60.0,18.0,34,Card
+R0000086,4,2025-01-01,Duka Fresh Nyali,20,2,140.0,0.0,34,Card
+R0000087,1,2025-01-01,Duka Fresh Nyali,6,1,70.0,0.0,141,Card
+R0000087,2,2025-01-01,DUKA FRESH NYALI,12,1,20.0,0.0,141,Card
+R0000087,3,2025-01-01,Duka Fresh Nyali,20,1,140.0,0.0,141,card
+R0000088,1,2025-01-01,Duka Fresh Nyali,3,1,380.0,0.0,143,Cash
+R0000088,2,2025-01-01,Duka Fresh Nyali,4,1,330.0,0.0,143,Cash
+R0000088,3,2025-01-01,Duka Fresh Nyali,13,3,100.0,0.0,143,Cash
+R0000088,4,2025-01-01,Duka Fresh Nyali,14,4,65.0,0.0,143,Cash
+R0000088,5,2025-01-01,Duka Fresh Nyali,18,1,60.0,0.0,143,Cash
+R0000089,1,2025-01-01,Duka Fresh Nyali,10,1,90.0,0.0,189,M-Pesa
+R0000089,2,2025-01-01,Duka Fresh Nyali,17,1,290.0,0.0,189,M-Pesa
+R0000090,1,01/01/2025,Duka Fresh Milimani,5,1,215.0,21.5,300,Card
+R0000090,2,2025-01-01,Duka Fresh Milimani,7,1,65.0,0.0,300,Card
+R0000090,3,2025-01-01,Duka Fresh Milimani,10,1,90.0,9.0,300,Card
+R0000090,4,2025-01-01,Duka Fresh Milimani,14,1,65.0,0.0,300,Card
+R0000090,5,2025-01-01,Duka Fresh Milimani,17,1,290.0,0.0,300,Card
+R0000091,1,2025-01-01,Duka Fresh Milimani,3,1,380.0,0.0,69,M-Pesa
+R0000091,2,2025-01-01,Duka Fresh Milimani,12,1,20.0,0.0,69,M-Pesa
+R0000091,3,2025-01-01,Duka Fresh Milimani,19,3,50.0,0.0,69,M-Pesa
+R0000092,1,2025-01-01,Duka Fresh Milimani,18,3,60.0,0.0,136,Card
+R0000093,1,2025-01-01,Duka Fresh Milimani,1,1,190.0,0.0,266,Cash
+R0000093,2,2025-01-01,Duka Fresh Milimani,19,1,50.0,2.5,266,Cash
+R0000094,1,2025-01-01,Duka Fresh Milimani,10,1,90.0,0.0,283,Cash
+R0000095,1,2025-01-01,Duka Fresh Milimani,7,1,65.0,6.5,213,Cash
+R0000096,1,2025-01-01,Duka Fresh Milimani,3,1,380.0,38.0,,M-Pesa
+R0000096,2,2025-01-01,Duka Fresh Milimani,5,3,215.0,0.0,,M-Pesa
+R0000096,3,2025-01-01,Duka Fresh Milimani,11,3,100.0,0.0,,M-Pesa
+R0000096,4,2025-01-01,Duka Fresh Milimani,17,1,290.0,0.0,,M-Pesa
+R0000097,1,2025-01-01,Duka Fresh Milimani,3,1,380.0,0.0,,Cash
+R0000097,2,2025-01-01,Duka Fresh Milimani,7,2,65.0,0.0,,Cash
+R0000097,3,2025-01-01,Duka Fresh Milimani,13,1,100.0,0.0,,Cash
+R0000097,4,2025-01-01,Duka Fresh Milimani,19,1,50.0,0.0,,Cash
+R0000097,5,2025-01-01,Duka Fresh Milimani,20,2,140.0,0.0,,Cash
+R0000098,1,2025-01-01,Duka Fresh Milimani,1,-3,190.0,0.0,,Card
+R0000098,2,2025-01-01,Duka Fresh Milimani,5,1,215.0,0.0,,Card
+R0000098,3,2025-01-01,Duka Fresh Milimani,11,1,100.0,0.0,,Card
+R0000098,4,2025-01-01,Duka Fresh Milimani,13,1,100.0,0.0,,Card
+R0000098,5,2025-01-01,Duka Fresh Milimani,18,2,60.0,0.0,,Card
+R0000098,6,2025-01-01,Duka Fresh Milimani,20,4,140.0,0.0,,CARD
+R0000099,1,2025-01-01,Duka Fresh Milimani,2,1,170.0,0.0,71,Cash
+R0000099,2,2025-01-01,Duka Fresh Milimani,16,2,200.0,0.0,71,Cash
+R0000099,3,2025-01-01,Duka Fresh Milimani,17,3,290.0,87.0,71,Cash
+R0000100,1,2025-01-01,Duka Fresh Milimani,20,3,140.0,0.0,106,M-Pesa
+R0000101,1,2025-01-01,Duka Fresh Milimani,18,2,60.0,0.0,148,M-Pesa
+R0000102,1,2025-01-01,Duka Fresh Milimani,6,1,70.0,0.0,134,M-Pesa
+R0000102,2,2025-01-01,Duka Fresh Milimani,17,4,290.0,0.0,134,M-Pesa
+R0000103,1,2025-01-01,Duka Fresh Milimani,10,1,90.0,0.0,,Cash
+R0000104,1,2025-01-01,Duka Fresh Milimani,3,2,380.0,0.0,25,M-Pesa
+R0000104,2,2025-01-01,Duka Fresh Milimani.,18,1,60.0,0.0,25,M-Pesa
+R0000105,1,2025-01-01,Duka Fresh Milimani,12,1,20.0,0.0,,Card
+R0000105,1,2025-01-01,Duka Fresh Milimani,12,1,20.0,0.0,,Card
+R0000106,1,2025-01-01,Duka Fresh Nakuru Town,3,2,380.0,38.0,264,M-Pesa
+R0000106,2,2025-01-01,Duka Fresh Nakuru Town,5,2,215.0,0.0,264,M-Pesa
+R0000106,3,2025-01-01,Duka Fresh Nakuru Town,6,1,70.0,0.0,264,M-Pesa
+R0000106,4,2025-01-01,Duka Fresh Nakuru Town,13,3,100.0,15.0,264,M-Pesa
+R0000106,5,2025-01-01,Duka Fresh Nakuru Town,16,1,200.0,0.0,264,M-Pesa
+R0000107,1,2025-01-01,Duka Fresh Nakuru Town,5,1,215.0,0.0,280,M-Pesa
+R0000107,2,2025-01-01,Duka Fresh Nakuru Town,19,2,50.0,0.0,280,M-Pesa
+R0000108,1,2025-01-01,Duka Fresh Nakuru Town,11,1,100.0,0.0,179,M-Pesa
+R0000108,2,2025-01-01,Duka Fresh Nakuru Town,14,2,65.0,0.0,179,M-Pesa
+R0000108,3,2025-01-01,Duka Fresh Nakuru Town,18,1,60.0,0.0,179,M-Pesa
+R0000109,1,2025-01-01,Duka Fresh Nakuru Town,17,2,290.0,0.0,122,M-Pesa
+R0000109,2,2025-01-01,Duka Fresh Nakuru Town,18,4,60.0,0.0,122,M-Pesa
+R0000110,1,01/01/2025,Duka Fresh Nakuru Town,5,2,215.0,0.0,179,M-Pesa
+R0000110,2,2025-01-01,Duka Fresh Nakuru Town,20,4,140.0,0.0,179,M-Pesa
+R0000111,1,2025-01-01,Duka Fresh Nakuru Town,3,1,380.0,0.0,76,Cash
+R0000111,2,2025-01-01,Duka Fresh Nakuru Town,5,1,215.0,0.0,76,Cash
+R0000111,3,2025-01-01,Duka Fresh Nakuru Town,10,2,90.0,0.0,76,Cash
+R0000111,4,2025-01-01,Duka Fresh Nakuru Town,14,1,65.0,0.0,76,Cash
+R0000112,1,2025-01-01,Duka Fresh Nakuru Town,1,1,190.0,0.0,73,M-Pesa
+R0000112,2,2025-01-01,Duka Fresh Nakuru Town,6,2,70.0,0.0,73,M-Pesa
+R0000112,3,2025-01-01,Duka Fresh Nakuru Town,16,2,200.0,0.0,73,M-Pesa
+R0000112,4,2025-01-01,Duka Fresh Nakuru Town,18,2,60.0,0.0,73,M-Pesa
+R0000113,1,2025-01-01,Duka Fresh Nakuru Town,3,1,380.0,0.0,93,Cash
+R0000113,2,2025-01-01,Duka Fresh Nakuru Town,8,2,480.0,0.0,93,Cash
+R0000113,3,2025-01-01,Duka Fresh Nakuru Town,14,1,65.0,0.0,93,Cash
+R0000114,1,2025-01-01,Duka Fresh Nakuru Town,8,1,480.0,0.0,210,M-Pesa
+R0000114,2,2025-01-01,Duka Fresh Nakuru Town,18,3,60.0,0.0,210,M-Pesa
+R0000114,3,2025-01-01,Duka Fresh Nakuru Town,19,1,50.0,0.0,210,M-Pesa
+R0000115,1,2025-01-01,Duka Fresh Nakuru Town,8,2,480.0,0.0,,Card
+R0000116,1,2025-01-01,Duka Fresh Nakuru Town,10,3,90.0,0.0,244,M-Pesa
+R0000116,2,2025-01-01,Duka Fresh Nakuru Town,13,2,100.0,0.0,244,M-Pesa
+R0000116,3,2025-01-01,Duka Fresh Nakuru Town,18,2,60.0,0.0,244,M-Pesa

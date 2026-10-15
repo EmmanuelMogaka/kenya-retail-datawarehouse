@@ -218,3 +218,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+   # Large generated data (recreate by running the generator)
+   data/raw/sales_raw.csv

@@ -1,0 +1,9 @@
+{
+  "clean_rows_before_damage": 146073,
+  "missing_unit_price": 1461,
+  "negative_quantity": 730,
+  "misspelled_store_name": 2921,
+  "different_date_format": 4382,
+  "inconsistent_payment_label": 5843,
+  "duplicate_rows_added": 1461
+}
