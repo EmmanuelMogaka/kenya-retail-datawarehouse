@@ -1,0 +1,7 @@
+# Python packages this project needs.
+# Install them all with:  python -m pip install -r requirements.txt
+pandas
+sqlalchemy
+psycopg2-binary
+python-dotenv
+pytest
