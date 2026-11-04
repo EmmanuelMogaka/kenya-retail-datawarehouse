@@ -221,3 +221,5 @@ __marimo__/
    # Large generated data (recreate by running the generator)
    data/raw/sales_raw.csv
    .vscode/
+
+   .vscode/
